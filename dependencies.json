@@ -1,0 +1,13 @@
+[ {
+  "name" : "PrefabWithLocalization",
+  "version" : "1.0",
+  "artifactType" : "PREFAB"
+}, {
+  "name" : "prefabWithlocalizationWidgets",
+  "version" : "1.04",
+  "artifactType" : "PREFAB"
+}, {
+  "name" : "material",
+  "version" : "2.8",
+  "artifactType" : "THEME"
+} ]
